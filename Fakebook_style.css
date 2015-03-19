@@ -1,0 +1,30 @@
+body {
+    background-color: skyblue;
+    text-align: center;
+    font-family:cursive;
+    }
+
+.fakebook {
+    color: black;
+    }
+
+.piko {
+   color: darkorange; 
+    }
+
+#fotka {
+    border: 2px solid;
+    }
+h3 {
+    text-decoration: underline;
+    }
+#slikce {
+    display: inline-block;
+    text-align: center;
+    height: 100px;
+    width: 100 px;
+    }
+#gumb {
+    
+    font-color: darkorange;
+    }
